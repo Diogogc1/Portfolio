@@ -1,0 +1,25 @@
+h2{
+    color: rgb(255, 255, 255);
+    display: flex;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 2.5em;
+    margin-top: 10%;
+    margin-left: 3.5%;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    display: flex;
+    width: 45%;
+    font-size: 1.6em;
+    line-height: 140%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3%;
+    margin-left: 3.5%;
+}
+
+#gif_home{
+    margin-left: 60%;
+    margin-top: -22%;
+}
